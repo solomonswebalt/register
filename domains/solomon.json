@@ -1,0 +1,11 @@
+{
+  "repo": "https://github.com/solomonsweb/newportfolio",
+
+  "owner": {
+    "username": "solomonsweb",
+    "email": "solomon@cymruwifi.co.uk"
+  },
+  "record": {
+    "CNAME": "solomonsweb.github.io/newportfolio"
+  }
+}
